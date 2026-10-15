@@ -1,0 +1,119 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.api
+    ports:
+      - "8000:8000"
+    environment:
+      - MONGODB_URI=mongodb://mongodb:27017
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - PYTHONPATH=/app
+      - PYTHONDONTWRITEBYTECODE=1
+    volumes:
+      - ./api:/app/api
+      - ./agentic_ai:/app/agentic_ai
+      - ./requirements.txt:/app/requirements.txt
+      - ./docker:/app/docker
+      - .env:/app/.env
+      - ./README.md:/app/README.md
+    working_dir: /app/api
+    command: >
+      uvicorn main:app --host 0.0.0.0 --port 8000 --reload --reload-dir /app/api --reload-dir /app/agentic_ai
+    depends_on:
+      - mongodb
+      - data_qdrant
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    networks:
+      - app_network
+
+  airflow:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.airflow
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    volumes:
+      - ./data_pipeline:/opt/airflow/data_pipeline
+      - "/mnt/winshare/Tess Folder:/opt/airflow/data"
+    depends_on:
+      - postgres
+      - data_qdrant
+    networks:
+      - app_network
+
+
+  mongodb:
+    image: mongo:latest
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=adminuser
+      - MONGO_INITDB_ROOT_PASSWORD=adminuser
+      - MONGO_INITDB_DATABASE=chatdb
+    ports:
+      - "0.0.0.0:27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
+    networks:
+      - app_network
+
+  data_qdrant:
+    image: qdrant/qdrant:latest
+    ports:
+      - "6333:6333"
+    volumes:
+      - data_qdrant_data:/qdrant/storage
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
+    networks:
+      - app_network
+
+  postgres:
+    image: postgres:13
+    environment:
+      - POSTGRES_USER=airflow
+      - POSTGRES_PASSWORD=airflow
+      - POSTGRES_DB=airflow
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
+    networks:
+      - app_network
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+      - WATCHPACK_POLLING=true
+    ports:
+      - "5173:5173"
+    restart: unless-stopped
+    depends_on:
+      - api
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    networks:
+      - app_network
+
+volumes:
+  data_qdrant_data:
+  postgres_data:
+  mongodb_data:
+    driver: local
+
+networks:
+  app_network:
+    driver: bridge
