@@ -1,0 +1,34 @@
+{
+  "general": {
+    "welcome": "Welkom",
+    "menu": "Menukaart"
+  },
+  "navigation": {
+    "chats": "Chatsessies",
+    "chat": "Chatten",
+    "userManagement": "Gebruikersbeheer",
+    "users": "Gebruikers",
+    "profile": "Profiel"
+  },
+  "form": {
+    "name": "Naam",
+    "email": "E-mail",
+    "emailId": "E-mailadres",
+    "submit": "Indienen",
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "delete": "Verwijderen"
+  },
+  "ui": {
+    "options": "Opties",
+    "results": "Resultaten"
+  },
+  "auth": {
+    "logOut": "Uitloggen"
+  },
+  "clipboard": {
+    "emailCopied": "E-mail gekopieerd naar klembord!",
+    "copyEmail": "Kopieer e-mailadres",
+    "copyFailed": "Het is niet gelukt om de e-mail naar het klembord te kopiëren!"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "conversation": {
+    "start": "Begin een gesprek door een bericht te sturen.",
+    "typeMessage": "Typ bericht..."
+  },
+  "session": {
+    "create": {
+      "new": "Nieuwe chat",
+      "multiple": "Sessies aanmaken",
+      "button": "Nieuwe sessie maken",
+      "error": "Fout bij het maken van een sessie!"
+    },
+    "delete": {
+      "confirm": "Bevestig verwijderen sessie",
+      "warning": "Weet je zeker dat je deze sessie wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.",
+      "success": "Sessie succesvol verwijderd!",
+      "error": "Sessie kan niet worden verwijderd!"
+    },
+    "edit": {
+      "title": {
+        "label": "Chattitel bewerken",
+        "instruction": "Geef je chat een beschrijvende titel om deze later gemakkelijk terug te vinden.",
+        "placeholder": "Voer de chattitel in",
+        "validation": {
+          "empty": "Titel mag niet leeg zijn",
+          "tooLong": "De titel moet korter zijn dan 50 tekens"
+        },
+        "success": "Sessietitel succesvol bijgewerkt!",
+        "error": "Fout bij het bewerken van de titel!"
+      }
+    },
+    "menu": {
+      "edit": "Titel bewerken"
+    },
+    "notFound": "Geen chatsessies gevonden"
+  },
+  "actions": {
+    "newChat": "Nieuwe chat"
+  },
+  "response": {
+    "generating": "Reactie genereren...",
+    "error": "Fout bij verzenden van bericht!"
+  },
+  "fetchMessages": {
+    "error": "Het is niet gelukt om meer berichten te laden"
+  },
+  "emailDialog": {
+    "title": "E-mail opstellen",
+    "form": {
+      "to": {
+        "label": "Aan",
+        "placeholder": "Voer emailadressen in"
+      },
+      "cc": {
+        "label": "CC",
+        "placeholder": "Voer CC emailadressen in"
+      },
+      "bcc": {
+        "label": "BCC",
+        "placeholder": "Voer BCC emailadressen in"
+      },
+      "subject": {
+        "label": "Onderwerp",
+        "placeholder": "Voer onderwerp in"
+      },
+      "message": {
+        "label": "Bericht",
+        "placeholder": "Voer bericht in"
+      },
+      "send": "Verstuur email",
+      "cancel": "Annuleren",
+      "preview": "Berichtvoorbeeld"
+    },
+    "response": {
+      "sent": "Email is verzonden!",
+      "error": "Fout bij verzenden van email!"
+    }
+  },
+  "commandOptions": {
+    "email": "Email",
+    "inbox": "Postvak IN",
+    "autosend": "Automatisch verzenden"
+  }
+}

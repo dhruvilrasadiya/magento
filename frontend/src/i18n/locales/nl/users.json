@@ -1,0 +1,44 @@
+{
+  "userManagement": {
+    "title": "Gebruikersbeheer",
+    "role": {
+      "label": "Rol",
+      "types": {
+        "supervisor": "toezichthouder",
+        "admin": "beheerder"
+      }
+    },
+    "noUsersFound": "Geen gebruikers gevonden",
+    "rowsPerPage": "Rijen per pagina"
+  },
+  "actions": {
+    "addNewUser": "Nieuwe gebruiker toevoegen",
+    "editUser": "Gebruiker bewerken",
+    "deleteUser": "Gebruiker verwijderen",
+    "createUser": "Gebruiker aanmaken",
+    "deleteAll": "Verwijderen"
+  },
+  "userRole": "Gebruikersrol",
+  "deleteConfirmation": {
+    "message": "Weet je zeker dat je deze gebruiker wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.",
+    "title": "Bevestig verwijderen gebruiker"
+  },
+  "deleteAllConfirmation": {
+    "message": "Weet je zeker dat je de geselecteerde gebruikers wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.",
+    "title": "Bevestig verwijderen geselecteerde gebruikers"
+  },
+  "selectRole": "Selecteer Rol",
+  "errors": {
+    "gettingUsers": "Fout bij het ophalen van gebruikers!",
+    "deletingUser": "Fout bij het verwijderen van gebruiker!",
+    "creatingUser": "Fout bij het aanmaken van gebruiker!",
+    "userAlreadyExists": "Gebruiker bestaat al!",
+    "userNotFound": "Gebruiker niet gevonden!",
+    "emailRegistered": "Email al geregistreerd!"
+  },
+  "success": {
+    "userDeleted": "Gebruiker succesvol verwijderd!",
+    "userUpdated": "Gebruiker succesvol bijgewerkt!",
+    "userAdded": "Gebruiker succesvol toegevoegd!"
+  }
+}

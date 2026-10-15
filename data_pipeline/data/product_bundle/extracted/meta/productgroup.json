@@ -1,0 +1,1970 @@
+[
+	{
+		"productgroupId":0,
+		"description":"IJzer, staal en buizen",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":10,
+		"description":"Handgereedschap",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":20,
+		"description":"Elektrisch gereedschap",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":30,
+		"description":"IJzerwaren",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":40,
+		"description":"Land- en tuinbouw",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":50,
+		"description":"Verf, lijmen en kitten",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":60,
+		"description":"Huishoudelijk en staalwaren",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":70,
+		"description":"Elektra en verlichting",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":90,
+		"description":"Klimmat. en transportmiddelen",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":110,
+		"description":"Hang- en sluitwerk",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":120,
+		"description":"Beveiliging",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":130,
+		"description":"Bouwmaterialen",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":140,
+		"description":"Decoratieve materialen",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":150,
+		"description":"Meubelen en keukens",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":160,
+		"description":"Onderdelen, reparatie en verhuur",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":170,
+		"description":"Schoeisel, kleding en bescherming",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":180,
+		"description":"Opbergsystemen en werkbanken",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":190,
+		"description":"Algemene groothandels",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":220,
+		"description":"Dierartikelen",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":502,
+		"description":"Technische Materialen",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":507,
+		"description":"Pvc Materialen",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":585,
+		"description":"Snij, Boor, Verspaan Gereedschappen",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":595,
+		"description":"Smeringen",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":632,
+		"description":"Tackers en Toebehoren",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":639,
+		"description":"Tuingereedschap",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":686,
+		"description":"Special",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":687,
+		"description":"Benzine produkten",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":706,
+		"description":"Riolering",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":733,
+		"description":"Bevestigingsmaterialen",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":804,
+		"description":"GB Tuinbeslag",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":807,
+		"description":"GB Spouwankers",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":815,
+		"description":"Arbeidsloon verlegd",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":817,
+		"description":"Keet artikelen",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":830,
+		"description":"Stanley Doorhardware",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":866,
+		"description":"Deurautomatiek",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":870,
+		"description":"Assortiment Terrasheater",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":872,
+		"description":"Assortiment e-Messen.nl",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":873,
+		"description":"Assortiment Heaterdirect",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":874,
+		"description":"Assortiment Tuinartikeltotaal",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":898,
+		"description":"Drukwerk-GBI varpo",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":900,
+		"description":"D4E Hang- en Sluitwerk",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":5,
+		"description":"ARBEIDSLOON",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":803,
+		"description":"GB Bouwverankering",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":805,
+		"description":"GB Diversen",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":806,
+		"description":"Gb Houtverbindingen",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":80,
+		"description":"Water, gas- en verwarmingsinst.",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":210,
+		"description":"Aluminimum profielen",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":810,
+		"description":"Kantoor en keet toebehoren",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":831,
+		"description":"Deurgrepen ",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":907,
+		"description":"D4E RVS Accessoires",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":999,
+		"description":"Diversen",
+		"parentProductgroupId":-1,
+		"parentProductgroupDescription":""
+	},
+	{
+		"productgroupId":1,
+		"description":"Profielen",
+		"parentProductgroupId":0,
+		"parentProductgroupDescription":"IJzer, staal en buizen"
+	},
+	{
+		"productgroupId":2,
+		"description":"Plaatmaterialen",
+		"parentProductgroupId":0,
+		"parentProductgroupDescription":"IJzer, staal en buizen"
+	},
+	{
+		"productgroupId":3,
+		"description":"Buizen, staal en kunststof",
+		"parentProductgroupId":0,
+		"parentProductgroupDescription":"IJzer, staal en buizen"
+	},
+	{
+		"productgroupId":744,
+		"description":"Bladlood",
+		"parentProductgroupId":0,
+		"parentProductgroupDescription":"IJzer, staal en buizen"
+	},
+	{
+		"productgroupId":11,
+		"description":"Tangen",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":12,
+		"description":"Slaggereedschap",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":13,
+		"description":"Schroefgereedschap",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":14,
+		"description":"Zaaggereedschap",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":15,
+		"description":"Montagegereedschap",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":16,
+		"description":"Meetgereedschap",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":17,
+		"description":"Snij-, boor verspaan en slijpgereedschap",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":18,
+		"description":"Metselgereedschap",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":19,
+		"description":"Div. handgereedschap",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":545,
+		"description":"Gereedschap Gordels en Toebehoren",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":574,
+		"description":"Sleutelgereedschap",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":576,
+		"description":"Soldeergereedschap en toebehoren",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":577,
+		"description":"Messen en snijgereedschap",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":578,
+		"description":"Vijlen",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":579,
+		"description":"SCHAAR",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":580,
+		"description":"Aftekengereedschap",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":582,
+		"description":"Lijmtangen",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":583,
+		"description":"Meetinstrumenten",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":584,
+		"description":"Scharen",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":614,
+		"description":"Houtbeitels / gutsen",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":615,
+		"description":"Dopsleutels",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":617,
+		"description":"Bankschroeven",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":619,
+		"description":"Schaven en Raspen",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":620,
+		"description":"Sloopbeitel",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":622,
+		"description":"Afstriptangen",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":624,
+		"description":"Zijsnijtang",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":625,
+		"description":"Multigereedschappen",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":627,
+		"description":"Kombinatietang",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":628,
+		"description":"Nijptang",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":629,
+		"description":"Pijptangen",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":631,
+		"description":"Waterpomptang",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":637,
+		"description":"Bankhamers",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":640,
+		"description":"Handzagen",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":642,
+		"description":"Ringsleutels",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":644,
+		"description":"Steek - ringratesleutel",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":646,
+		"description":"Moersleutels",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":647,
+		"description":"Steeksleutels",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":662,
+		"description":"Popnageltang",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":672,
+		"description":"Steenbeitels",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":675,
+		"description":"schilders gereedschap",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":681,
+		"description":"Boutenschaar",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":684,
+		"description":"Hijs en Heftechniek ",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":689,
+		"description":"Stiftsleutels Inbus/Torx",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":690,
+		"description":"Telefoontangen",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":692,
+		"description":"Blindklinktang",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":693,
+		"description":"Moerensplijter",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":698,
+		"description":"Schroevendraaier / sets",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":783,
+		"description":"Metaalzagen",
+		"parentProductgroupId":10,
+		"parentProductgroupDescription":"Handgereedschap"
+	},
+	{
+		"productgroupId":21,
+		"description":"Elektr. handgereedschap met snoer",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":22,
+		"description":"Elektr. handgereedschap snoerloos",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":23,
+		"description":"Stat. elektr. gereedschap hout",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":24,
+		"description":"Stat. elektr. gereedschap metaal",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":25,
+		"description":"Accessoires elektr. handgereedschap",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":26,
+		"description":"Accessoires stationair elektr. gereedschap",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":27,
+		"description":"Las- en soldeerapparatuur",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":28,
+		"description":"Persluchtapparatuur",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":29,
+		"description":"Div. elektrisch gereedschap",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":515,
+		"description":"Accu's diversen",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":516,
+		"description":"Stofafzuiging",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":519,
+		"description":"Boor/hakhamers",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":520,
+		"description":"Accu Gereedschap",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":521,
+		"description":"Zaagmachines",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":522,
+		"description":"Afkort/Verstek/tafelzaagmachines",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":523,
+		"description":"Houtbewerkingmachines",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":524,
+		"description":"Freesmachines",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":531,
+		"description":"Accu Schroef/Boormachine",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":533,
+		"description":"Accu Verlichting",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":539,
+		"description":"Haakse slijpers",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":543,
+		"description":"Laser en Meetapparatuur",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":546,
+		"description":"Bouwradios",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":571,
+		"description":"Acculaders",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":597,
+		"description":"Meetinstrumenten",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":598,
+		"description":"Haspels",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":606,
+		"description":"Accu boorhamers",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":665,
+		"description":"Diamant zaagmachine's/ Boormachine's",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":711,
+		"description":"Verwarmende en koelende aparaten",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":896,
+		"description":"Bouw en Werfmachines",
+		"parentProductgroupId":20,
+		"parentProductgroupDescription":"Elektrisch gereedschap"
+	},
+	{
+		"productgroupId":525,
+		"description":"Schroefgereedschap",
+		"parentProductgroupId":25,
+		"parentProductgroupDescription":"Accessoires elektr. handgereedschap"
+	},
+	{
+		"productgroupId":526,
+		"description":"Diamantzaagbladen",
+		"parentProductgroupId":25,
+		"parentProductgroupDescription":"Accessoires elektr. handgereedschap"
+	},
+	{
+		"productgroupId":527,
+		"description":"Cirkelzaagbladen",
+		"parentProductgroupId":25,
+		"parentProductgroupDescription":"Accessoires elektr. handgereedschap"
+	},
+	{
+		"productgroupId":536,
+		"description":"Toebehoren Festool",
+		"parentProductgroupId":25,
+		"parentProductgroupDescription":"Accessoires elektr. handgereedschap"
+	},
+	{
+		"productgroupId":537,
+		"description":"Schuurmiddelen",
+		"parentProductgroupId":25,
+		"parentProductgroupDescription":"Accessoires elektr. handgereedschap"
+	},
+	{
+		"productgroupId":538,
+		"description":"Toebehoren Protool ",
+		"parentProductgroupId":25,
+		"parentProductgroupDescription":"Accessoires elektr. handgereedschap"
+	},
+	{
+		"productgroupId":542,
+		"description":"Toebehoren DeWalt ",
+		"parentProductgroupId":25,
+		"parentProductgroupDescription":"Accessoires elektr. handgereedschap"
+	},
+	{
+		"productgroupId":544,
+		"description":" Doorslijpschijven",
+		"parentProductgroupId":25,
+		"parentProductgroupDescription":"Accessoires elektr. handgereedschap"
+	},
+	{
+		"productgroupId":547,
+		"description":"Decoupeerzaagbladen",
+		"parentProductgroupId":25,
+		"parentProductgroupDescription":"Accessoires elektr. handgereedschap"
+	},
+	{
+		"productgroupId":613,
+		"description":"Reciprozaagbladen",
+		"parentProductgroupId":25,
+		"parentProductgroupDescription":"Accessoires elektr. handgereedschap"
+	},
+	{
+		"productgroupId":641,
+		"description":"Lintzaagbladen",
+		"parentProductgroupId":25,
+		"parentProductgroupDescription":"Accessoires elektr. handgereedschap"
+	},
+	{
+		"productgroupId":654,
+		"description":"Diamantboren",
+		"parentProductgroupId":25,
+		"parentProductgroupDescription":"Accessoires elektr. handgereedschap"
+	},
+	{
+		"productgroupId":777,
+		"description":"Metaalzaagbladen",
+		"parentProductgroupId":25,
+		"parentProductgroupDescription":"Accessoires elektr. handgereedschap"
+	},
+	{
+		"productgroupId":820,
+		"description":"Toebehoren gereedschappen",
+		"parentProductgroupId":25,
+		"parentProductgroupDescription":"Accessoires elektr. handgereedschap"
+	},
+	{
+		"productgroupId":31,
+		"description":"Schroeven",
+		"parentProductgroupId":30,
+		"parentProductgroupDescription":"IJzerwaren"
+	},
+	{
+		"productgroupId":32,
+		"description":"Bouten en moeren",
+		"parentProductgroupId":30,
+		"parentProductgroupDescription":"IJzerwaren"
+	},
+	{
+		"productgroupId":33,
+		"description":"Nagels",
+		"parentProductgroupId":30,
+		"parentProductgroupDescription":"IJzerwaren"
+	},
+	{
+		"productgroupId":34,
+		"description":"Pluggen",
+		"parentProductgroupId":30,
+		"parentProductgroupDescription":"IJzerwaren"
+	},
+	{
+		"productgroupId":35,
+		"description":"Div. bevestigingsmaterialen",
+		"parentProductgroupId":30,
+		"parentProductgroupDescription":"IJzerwaren"
+	},
+	{
+		"productgroupId":36,
+		"description":"Wielen",
+		"parentProductgroupId":30,
+		"parentProductgroupDescription":"IJzerwaren"
+	},
+	{
+		"productgroupId":37,
+		"description":"Plankdragers",
+		"parentProductgroupId":30,
+		"parentProductgroupDescription":"IJzerwaren"
+	},
+	{
+		"productgroupId":38,
+		"description":"Diverse ijzerwaren",
+		"parentProductgroupId":30,
+		"parentProductgroupDescription":"IJzerwaren"
+	},
+	{
+		"productgroupId":39,
+		"description":"Tochtwering en Hordeuren",
+		"parentProductgroupId":30,
+		"parentProductgroupDescription":"IJzerwaren"
+	},
+	{
+		"productgroupId":680,
+		"description":"Touw en verpakkingsmateriaal",
+		"parentProductgroupId":30,
+		"parentProductgroupDescription":"IJzerwaren"
+	},
+	{
+		"productgroupId":708,
+		"description":"Buisklemmen divers",
+		"parentProductgroupId":30,
+		"parentProductgroupDescription":"IJzerwaren"
+	},
+	{
+		"productgroupId":735,
+		"description":"Kunstof doppen en toebehoren",
+		"parentProductgroupId":30,
+		"parentProductgroupDescription":"IJzerwaren"
+	},
+	{
+		"productgroupId":741,
+		"description":"Ventilatie roosters en Toebehoren",
+		"parentProductgroupId":30,
+		"parentProductgroupDescription":"IJzerwaren"
+	},
+	{
+		"productgroupId":790,
+		"description":"Ketting en Staaldraad toebehoren",
+		"parentProductgroupId":30,
+		"parentProductgroupDescription":"IJzerwaren"
+	},
+	{
+		"productgroupId":41,
+		"description":"Tuin-Handgereedschap",
+		"parentProductgroupId":40,
+		"parentProductgroupDescription":"Land- en tuinbouw"
+	},
+	{
+		"productgroupId":44,
+		"description":"Tuin-Accessoires",
+		"parentProductgroupId":40,
+		"parentProductgroupDescription":"Land- en tuinbouw"
+	},
+	{
+		"productgroupId":45,
+		"description":"Ketting, Touw en Koord",
+		"parentProductgroupId":40,
+		"parentProductgroupDescription":"Land- en tuinbouw"
+	},
+	{
+		"productgroupId":46,
+		"description":"Draad en Gaas",
+		"parentProductgroupId":40,
+		"parentProductgroupDescription":"Land- en tuinbouw"
+	},
+	{
+		"productgroupId":48,
+		"description":"Pompen en Hogedrukreinigers",
+		"parentProductgroupId":40,
+		"parentProductgroupDescription":"Land- en tuinbouw"
+	},
+	{
+		"productgroupId":49,
+		"description":"Bestrijdings- en Bemestingsmiddelen",
+		"parentProductgroupId":40,
+		"parentProductgroupDescription":"Land- en tuinbouw"
+	},
+	{
+		"productgroupId":401,
+		"description":"Smeermiddelen",
+		"parentProductgroupId":40,
+		"parentProductgroupDescription":"Land- en tuinbouw"
+	},
+	{
+		"productgroupId":745,
+		"description":"Slangen",
+		"parentProductgroupId":40,
+		"parentProductgroupDescription":"Land- en tuinbouw"
+	},
+	{
+		"productgroupId":51,
+		"description":"Verf",
+		"parentProductgroupId":50,
+		"parentProductgroupDescription":"Verf, lijmen en kitten"
+	},
+	{
+		"productgroupId":54,
+		"description":"Kwasten, rollers en verfgereedschap",
+		"parentProductgroupId":50,
+		"parentProductgroupDescription":"Verf, lijmen en kitten"
+	},
+	{
+		"productgroupId":55,
+		"description":"Tapes en Band",
+		"parentProductgroupId":50,
+		"parentProductgroupDescription":"Verf, lijmen en kitten"
+	},
+	{
+		"productgroupId":56,
+		"description":"Lijmen en Kitten",
+		"parentProductgroupId":50,
+		"parentProductgroupDescription":"Verf, lijmen en kitten"
+	},
+	{
+		"productgroupId":57,
+		"description":"Reinigings- en Verdunningsmiddelen",
+		"parentProductgroupId":50,
+		"parentProductgroupDescription":"Verf, lijmen en kitten"
+	},
+	{
+		"productgroupId":58,
+		"description":"Vochtwerende en vulmiddelen",
+		"parentProductgroupId":50,
+		"parentProductgroupDescription":"Verf, lijmen en kitten"
+	},
+	{
+		"productgroupId":59,
+		"description":"Schuurmiddelen",
+		"parentProductgroupId":50,
+		"parentProductgroupDescription":"Verf, lijmen en kitten"
+	},
+	{
+		"productgroupId":674,
+		"description":"Purschuim",
+		"parentProductgroupId":50,
+		"parentProductgroupDescription":"Verf, lijmen en kitten"
+	},
+	{
+		"productgroupId":676,
+		"description":"Kitten",
+		"parentProductgroupId":50,
+		"parentProductgroupDescription":"Verf, lijmen en kitten"
+	},
+	{
+		"productgroupId":677,
+		"description":"Lijmen",
+		"parentProductgroupId":50,
+		"parentProductgroupDescription":"Verf, lijmen en kitten"
+	},
+	{
+		"productgroupId":61,
+		"description":"Huishoudelijk Algemeen",
+		"parentProductgroupId":60,
+		"parentProductgroupDescription":"Huishoudelijk en staalwaren"
+	},
+	{
+		"productgroupId":62,
+		"description":"Borstelwaren",
+		"parentProductgroupId":60,
+		"parentProductgroupDescription":"Huishoudelijk en staalwaren"
+	},
+	{
+		"productgroupId":63,
+		"description":"Staalwaren",
+		"parentProductgroupId":60,
+		"parentProductgroupDescription":"Huishoudelijk en staalwaren"
+	},
+	{
+		"productgroupId":64,
+		"description":"Auto- en fietsonderdelen",
+		"parentProductgroupId":60,
+		"parentProductgroupDescription":"Huishoudelijk en staalwaren"
+	},
+	{
+		"productgroupId":67,
+		"description":"Luchtdrukwapens",
+		"parentProductgroupId":60,
+		"parentProductgroupDescription":"Huishoudelijk en staalwaren"
+	},
+	{
+		"productgroupId":71,
+		"description":"Elektra-Installatie Materiaal",
+		"parentProductgroupId":70,
+		"parentProductgroupDescription":"Elektra en verlichting"
+	},
+	{
+		"productgroupId":72,
+		"description":"Lichtbronnen",
+		"parentProductgroupId":70,
+		"parentProductgroupDescription":"Elektra en verlichting"
+	},
+	{
+		"productgroupId":73,
+		"description":"Verlichtingarmaturen",
+		"parentProductgroupId":70,
+		"parentProductgroupDescription":"Elektra en verlichting"
+	},
+	{
+		"productgroupId":74,
+		"description":"Batterijen",
+		"parentProductgroupId":70,
+		"parentProductgroupDescription":"Elektra en verlichting"
+	},
+	{
+		"productgroupId":75,
+		"description":"Zaklantaarns",
+		"parentProductgroupId":70,
+		"parentProductgroupDescription":"Elektra en verlichting"
+	},
+	{
+		"productgroupId":76,
+		"description":"Audio apparatuur",
+		"parentProductgroupId":70,
+		"parentProductgroupDescription":"Elektra en verlichting"
+	},
+	{
+		"productgroupId":683,
+		"description":"Draad en kabel elektra",
+		"parentProductgroupId":70,
+		"parentProductgroupDescription":"Elektra en verlichting"
+	},
+	{
+		"productgroupId":710,
+		"description":"Stekkers en contactdozen",
+		"parentProductgroupId":70,
+		"parentProductgroupDescription":"Elektra en verlichting"
+	},
+	{
+		"productgroupId":775,
+		"description":"Schakelmateriaal",
+		"parentProductgroupId":70,
+		"parentProductgroupDescription":"Elektra en verlichting"
+	},
+	{
+		"productgroupId":779,
+		"description":"Schakelmateriaal Busch jager",
+		"parentProductgroupId":70,
+		"parentProductgroupDescription":"Elektra en verlichting"
+	},
+	{
+		"productgroupId":81,
+		"description":"Water-Installatie Materialen",
+		"parentProductgroupId":80,
+		"parentProductgroupDescription":"Water, gas- en verwarmingsinst."
+	},
+	{
+		"productgroupId":83,
+		"description":"Gasinstallatie Materialen",
+		"parentProductgroupId":80,
+		"parentProductgroupDescription":"Water, gas- en verwarmingsinst."
+	},
+	{
+		"productgroupId":84,
+		"description":"Verwarmingsinstallatie Materialen",
+		"parentProductgroupId":80,
+		"parentProductgroupDescription":"Water, gas- en verwarmingsinst."
+	},
+	{
+		"productgroupId":85,
+		"description":"Verwarmende Apparatuur",
+		"parentProductgroupId":80,
+		"parentProductgroupDescription":"Water, gas- en verwarmingsinst."
+	},
+	{
+		"productgroupId":86,
+		"description":"Ventilatoren",
+		"parentProductgroupId":80,
+		"parentProductgroupDescription":"Water, gas- en verwarmingsinst."
+	},
+	{
+		"productgroupId":87,
+		"description":"Campingaccessoires",
+		"parentProductgroupId":80,
+		"parentProductgroupDescription":"Water, gas- en verwarmingsinst."
+	},
+	{
+		"productgroupId":89,
+		"description":"Diversen Gas, Water en Verwarming",
+		"parentProductgroupId":80,
+		"parentProductgroupDescription":"Water, gas- en verwarmingsinst."
+	},
+	{
+		"productgroupId":569,
+		"description":"Viega Pexfit",
+		"parentProductgroupId":80,
+		"parentProductgroupDescription":"Water, gas- en verwarmingsinst."
+	},
+	{
+		"productgroupId":713,
+		"description":"Thyleenkoppelingen",
+		"parentProductgroupId":80,
+		"parentProductgroupDescription":"Water, gas- en verwarmingsinst."
+	},
+	{
+		"productgroupId":743,
+		"description":"Koperen Buis",
+		"parentProductgroupId":80,
+		"parentProductgroupDescription":"Water, gas- en verwarmingsinst."
+	},
+	{
+		"productgroupId":814,
+		"description":"Hwa / Rwa afvoer buizen en hulpstukken",
+		"parentProductgroupId":80,
+		"parentProductgroupDescription":"Water, gas- en verwarmingsinst."
+	},
+	{
+		"productgroupId":91,
+		"description":"Ladders",
+		"parentProductgroupId":90,
+		"parentProductgroupDescription":"Klimmat. en transportmiddelen"
+	},
+	{
+		"productgroupId":92,
+		"description":"Trappen",
+		"parentProductgroupId":90,
+		"parentProductgroupDescription":"Klimmat. en transportmiddelen"
+	},
+	{
+		"productgroupId":94,
+		"description":"Transportmiddelen",
+		"parentProductgroupId":90,
+		"parentProductgroupDescription":"Klimmat. en transportmiddelen"
+	},
+	{
+		"productgroupId":95,
+		"description":"Bouwplaatsinrichtingen",
+		"parentProductgroupId":90,
+		"parentProductgroupDescription":"Klimmat. en transportmiddelen"
+	},
+	{
+		"productgroupId":111,
+		"description":"Sloten en Sluitsystemen",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":112,
+		"description":"Sleutels",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":113,
+		"description":"Bouwbeslag",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":114,
+		"description":"Sierbeslag",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":115,
+		"description":"Cylinders",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":116,
+		"description":"Brievenbussen",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":117,
+		"description":"Meubelbeslag",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":119,
+		"description":"Aanduidingsplaatjes en sleutelhangers",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":773,
+		"description":"Schuifdeur & Toebehoren",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":774,
+		"description":"Scharnieren",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":784,
+		"description":"Tuinbeslag ",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":808,
+		"description":"Elektronische sluitingen en toebehoren",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":813,
+		"description":"Dranger en sluittechniek",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":838,
+		"description":"Toegangscontrole",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":842,
+		"description":"Glasdeurbeslag",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":852,
+		"description":"Intercom systemen",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":892,
+		"description":"Raambeslag",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":897,
+		"description":"Hefschuifbeslag",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":905,
+		"description":"D4E Hefschuifdeurbeslag",
+		"parentProductgroupId":110,
+		"parentProductgroupDescription":"Hang- en sluitwerk"
+	},
+	{
+		"productgroupId":121,
+		"description":"Kluizen en Cassettes",
+		"parentProductgroupId":120,
+		"parentProductgroupDescription":"Beveiliging"
+	},
+	{
+		"productgroupId":122,
+		"description":"Inbraakdetektie Apparatuur",
+		"parentProductgroupId":120,
+		"parentProductgroupDescription":"Beveiliging"
+	},
+	{
+		"productgroupId":123,
+		"description":"Branddetektie Apparatuur",
+		"parentProductgroupId":120,
+		"parentProductgroupDescription":"Beveiliging"
+	},
+	{
+		"productgroupId":125,
+		"description":"Anti inbraakstrips",
+		"parentProductgroupId":120,
+		"parentProductgroupDescription":"Beveiliging"
+	},
+	{
+		"productgroupId":97,
+		"description":"Betonmachines en -Apparatuur",
+		"parentProductgroupId":130,
+		"parentProductgroupDescription":"Bouwmaterialen"
+	},
+	{
+		"productgroupId":133,
+		"description":"Deuren",
+		"parentProductgroupId":130,
+		"parentProductgroupDescription":"Bouwmaterialen"
+	},
+	{
+		"productgroupId":136,
+		"description":"Bouwmaterialen",
+		"parentProductgroupId":130,
+		"parentProductgroupDescription":"Bouwmaterialen"
+	},
+	{
+		"productgroupId":138,
+		"description":"Isolatiematerialen",
+		"parentProductgroupId":130,
+		"parentProductgroupDescription":"Bouwmaterialen"
+	},
+	{
+		"productgroupId":139,
+		"description":"Dakbedekking en Hemelwaterafvoer",
+		"parentProductgroupId":130,
+		"parentProductgroupDescription":"Bouwmaterialen"
+	},
+	{
+		"productgroupId":609,
+		"description":"Ankerwerk Houtverbindingen",
+		"parentProductgroupId":130,
+		"parentProductgroupDescription":"Bouwmaterialen"
+	},
+	{
+		"productgroupId":145,
+		"description":"Vloerbedekking",
+		"parentProductgroupId":140,
+		"parentProductgroupDescription":"Decoratieve materialen"
+	},
+	{
+		"productgroupId":149,
+		"description":"Overige decoratiematerialen",
+		"parentProductgroupId":140,
+		"parentProductgroupDescription":"Decoratieve materialen"
+	},
+	{
+		"productgroupId":151,
+		"description":"Kasten",
+		"parentProductgroupId":150,
+		"parentProductgroupDescription":"Meubelen en keukens"
+	},
+	{
+		"productgroupId":162,
+		"description":"Onderdelen",
+		"parentProductgroupId":160,
+		"parentProductgroupDescription":"Onderdelen, reparatie en verhuur"
+	},
+	{
+		"productgroupId":165,
+		"description":"Porti/Bezorgen/Transport",
+		"parentProductgroupId":160,
+		"parentProductgroupDescription":"Onderdelen, reparatie en verhuur"
+	},
+	{
+		"productgroupId":541,
+		"description":"Onderdelen DeWalt",
+		"parentProductgroupId":160,
+		"parentProductgroupDescription":"Onderdelen, reparatie en verhuur"
+	},
+	{
+		"productgroupId":668,
+		"description":"Vervangingsnoer",
+		"parentProductgroupId":160,
+		"parentProductgroupDescription":"Onderdelen, reparatie en verhuur"
+	},
+	{
+		"productgroupId":704,
+		"description":"Onderdelen Hitachi",
+		"parentProductgroupId":160,
+		"parentProductgroupDescription":"Onderdelen, reparatie en verhuur"
+	},
+	{
+		"productgroupId":171,
+		"description":"Schoeisel",
+		"parentProductgroupId":170,
+		"parentProductgroupDescription":"Schoeisel, kleding en bescherming"
+	},
+	{
+		"productgroupId":172,
+		"description":"Kleding",
+		"parentProductgroupId":170,
+		"parentProductgroupDescription":"Schoeisel, kleding en bescherming"
+	},
+	{
+		"productgroupId":173,
+		"description":"Persoonlijke Bescherming",
+		"parentProductgroupId":170,
+		"parentProductgroupDescription":"Schoeisel, kleding en bescherming"
+	},
+	{
+		"productgroupId":174,
+		"description":"Folies en Dekzeilen",
+		"parentProductgroupId":170,
+		"parentProductgroupDescription":"Schoeisel, kleding en bescherming"
+	},
+	{
+		"productgroupId":175,
+		"description":"Smeermiddelen",
+		"parentProductgroupId":170,
+		"parentProductgroupDescription":"Schoeisel, kleding en bescherming"
+	},
+	{
+		"productgroupId":563,
+		"description":"Gehoorbescherming",
+		"parentProductgroupId":170,
+		"parentProductgroupDescription":"Schoeisel, kleding en bescherming"
+	},
+	{
+		"productgroupId":564,
+		"description":"Hoofdbescherming",
+		"parentProductgroupId":170,
+		"parentProductgroupDescription":"Schoeisel, kleding en bescherming"
+	},
+	{
+		"productgroupId":565,
+		"description":"Handbescherming",
+		"parentProductgroupId":170,
+		"parentProductgroupDescription":"Schoeisel, kleding en bescherming"
+	},
+	{
+		"productgroupId":566,
+		"description":"Werkkleding",
+		"parentProductgroupId":170,
+		"parentProductgroupDescription":"Schoeisel, kleding en bescherming"
+	},
+	{
+		"productgroupId":567,
+		"description":"Valbeveiliging",
+		"parentProductgroupId":170,
+		"parentProductgroupDescription":"Schoeisel, kleding en bescherming"
+	},
+	{
+		"productgroupId":794,
+		"description":"Truien, Sweatshirt",
+		"parentProductgroupId":170,
+		"parentProductgroupDescription":"Schoeisel, kleding en bescherming"
+	},
+	{
+		"productgroupId":795,
+		"description":"Polo / t-shirt",
+		"parentProductgroupId":170,
+		"parentProductgroupDescription":"Schoeisel, kleding en bescherming"
+	},
+	{
+		"productgroupId":796,
+		"description":"Broeken / Overall / shorts",
+		"parentProductgroupId":170,
+		"parentProductgroupDescription":"Schoeisel, kleding en bescherming"
+	},
+	{
+		"productgroupId":797,
+		"description":"Jassen / jacks / werkvest",
+		"parentProductgroupId":170,
+		"parentProductgroupDescription":"Schoeisel, kleding en bescherming"
+	},
+	{
+		"productgroupId":801,
+		"description":"Eurosafe kleding",
+		"parentProductgroupId":170,
+		"parentProductgroupDescription":"Schoeisel, kleding en bescherming"
+	},
+	{
+		"productgroupId":688,
+		"description":"Aanduidingsborden ",
+		"parentProductgroupId":173,
+		"parentProductgroupDescription":"Persoonlijke Bescherming"
+	},
+	{
+		"productgroupId":181,
+		"description":"Opbergsystemen",
+		"parentProductgroupId":180,
+		"parentProductgroupDescription":"Opbergsystemen en werkbanken"
+	},
+	{
+		"productgroupId":186,
+		"description":"Werkplaatsinrichtingen",
+		"parentProductgroupId":180,
+		"parentProductgroupDescription":"Opbergsystemen en werkbanken"
+	},
+	{
+		"productgroupId":191,
+		"description":"IJzerwaren",
+		"parentProductgroupId":190,
+		"parentProductgroupDescription":"Algemene groothandels"
+	},
+	{
+		"productgroupId":192,
+		"description":"Gereedschappen en Machines",
+		"parentProductgroupId":190,
+		"parentProductgroupDescription":"Algemene groothandels"
+	},
+	{
+		"productgroupId":69,
+		"description":"Dierverzorging",
+		"parentProductgroupId":220,
+		"parentProductgroupDescription":"Dierartikelen"
+	},
+	{
+		"productgroupId":227,
+		"description":"Tuin- en vijverartikelen",
+		"parentProductgroupId":220,
+		"parentProductgroupDescription":"Dierartikelen"
+	},
+	{
+		"productgroupId":506,
+		"description":"Spanbanden",
+		"parentProductgroupId":502,
+		"parentProductgroupDescription":"Technische Materialen"
+	},
+	{
+		"productgroupId":514,
+		"description":"Poetslappen en verbuiksmateriaal",
+		"parentProductgroupId":502,
+		"parentProductgroupDescription":"Technische Materialen"
+	},
+	{
+		"productgroupId":586,
+		"description":"Metaalboren ruimers",
+		"parentProductgroupId":585,
+		"parentProductgroupDescription":"Snij, Boor, Verspaan Gereedschappen"
+	},
+	{
+		"productgroupId":587,
+		"description":"Gatzagen Gatenponsen kernboren",
+		"parentProductgroupId":585,
+		"parentProductgroupDescription":"Snij, Boor, Verspaan Gereedschappen"
+	},
+	{
+		"productgroupId":588,
+		"description":"Houtboren",
+		"parentProductgroupId":585,
+		"parentProductgroupDescription":"Snij, Boor, Verspaan Gereedschappen"
+	},
+	{
+		"productgroupId":589,
+		"description":"Frezen",
+		"parentProductgroupId":585,
+		"parentProductgroupDescription":"Snij, Boor, Verspaan Gereedschappen"
+	},
+	{
+		"productgroupId":590,
+		"description":"Zagen",
+		"parentProductgroupId":585,
+		"parentProductgroupDescription":"Snij, Boor, Verspaan Gereedschappen"
+	},
+	{
+		"productgroupId":591,
+		"description":"Verzinken en Ontbramen",
+		"parentProductgroupId":585,
+		"parentProductgroupDescription":"Snij, Boor, Verspaan Gereedschappen"
+	},
+	{
+		"productgroupId":592,
+		"description":"Steen / betonboren en Beitels",
+		"parentProductgroupId":585,
+		"parentProductgroupDescription":"Snij, Boor, Verspaan Gereedschappen"
+	},
+	{
+		"productgroupId":593,
+		"description":"Draadsnijgereedschap",
+		"parentProductgroupId":585,
+		"parentProductgroupDescription":"Snij, Boor, Verspaan Gereedschappen"
+	},
+	{
+		"productgroupId":601,
+		"description":"diamantgereedschap",
+		"parentProductgroupId":585,
+		"parentProductgroupDescription":"Snij, Boor, Verspaan Gereedschappen"
+	},
+	{
+		"productgroupId":602,
+		"description":"Schroefgereedschap",
+		"parentProductgroupId":585,
+		"parentProductgroupDescription":"Snij, Boor, Verspaan Gereedschappen"
+	},
+	{
+		"productgroupId":811,
+		"description":"Sds beitel's",
+		"parentProductgroupId":585,
+		"parentProductgroupDescription":"Snij, Boor, Verspaan Gereedschappen"
+	},
+	{
+		"productgroupId":596,
+		"description":"Snij- Olie/Pasta",
+		"parentProductgroupId":595,
+		"parentProductgroupDescription":"Smeringen"
+	},
+	{
+		"productgroupId":550,
+		"description":"Brads en Nieten",
+		"parentProductgroupId":632,
+		"parentProductgroupDescription":"Tackers en Toebehoren"
+	},
+	{
+		"productgroupId":552,
+		"description":"Perslucht toebehoren",
+		"parentProductgroupId":632,
+		"parentProductgroupDescription":"Tackers en Toebehoren"
+	},
+	{
+		"productgroupId":635,
+		"description":"Compressor",
+		"parentProductgroupId":632,
+		"parentProductgroupDescription":"Tackers en Toebehoren"
+	},
+	{
+		"productgroupId":657,
+		"description":"Accu / Gas tackers",
+		"parentProductgroupId":632,
+		"parentProductgroupDescription":"Tackers en Toebehoren"
+	},
+	{
+		"productgroupId":663,
+		"description":"Hand / elektrichtackers",
+		"parentProductgroupId":632,
+		"parentProductgroupDescription":"Tackers en Toebehoren"
+	},
+	{
+		"productgroupId":781,
+		"description":"LUCHTHASPEL",
+		"parentProductgroupId":632,
+		"parentProductgroupDescription":"Tackers en Toebehoren"
+	},
+	{
+		"productgroupId":723,
+		"description":"Riool Hulpstukken lijm",
+		"parentProductgroupId":706,
+		"parentProductgroupDescription":"Riolering"
+	},
+	{
+		"productgroupId":730,
+		"description":"Hwa Bevestiging",
+		"parentProductgroupId":706,
+		"parentProductgroupDescription":"Riolering"
+	},
+	{
+		"productgroupId":734,
+		"description":"Plaatschroeven montage o.a. D7504",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":749,
+		"description":"Houtdraadbouten volgens D571",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":750,
+		"description":"Slotbouten volgens Din603/555",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":751,
+		"description":"Binnenzeskant Volgens D7991",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":752,
+		"description":"Binnenzeskant Volgens D912",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":754,
+		"description":"Moeren zeskant volgens D934 /d985",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":755,
+		"description":"Moeren Koppel / dop  /las / oog / glij enz.",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":756,
+		"description":"Onderlegringen Volgens D125 / D7349",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":757,
+		"description":"Carrosserieringen Volgens D9021 D440",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":758,
+		"description":"Borg / Veer / Tandveerringen",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":760,
+		"description":"Pluggen Nylon",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":761,
+		"description":"Pluggen staal",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":762,
+		"description":"Metaalschroeven Volgens D84 / D7985 / ISO7380",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":763,
+		"description":"Metaalschroeven Volgens D963 / D965",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":764,
+		"description":"Schroeven divers ",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":765,
+		"description":"Draadeinden / Tapeinden",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":766,
+		"description":"Ankers / keilbouten",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":767,
+		"description":"Draadnagels ",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":769,
+		"description":"Spaanplaatschroeven",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":770,
+		"description":"Tapbouten volgens D933/931 enz",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":771,
+		"description":"Plaatschroeven Volgens D7981",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":789,
+		"description":"Nagel en Kozijn pluggen",
+		"parentProductgroupId":733,
+		"parentProductgroupDescription":"Bevestigingsmaterialen"
+	},
+	{
+		"productgroupId":835,
+		"description":"Stanley Deurdrangers Veren",
+		"parentProductgroupId":830,
+		"parentProductgroupDescription":"Stanley Doorhardware"
+	},
+	{
+		"productgroupId":890,
+		"description":"D4E Alu VH beslag ",
+		"parentProductgroupId":900,
+		"parentProductgroupDescription":"D4E Hang- en Sluitwerk"
+	},
+	{
+		"productgroupId":906,
+		"description":"D4E Alu Vastdraaibaar Rozet",
+		"parentProductgroupId":900,
+		"parentProductgroupDescription":"D4E Hang- en Sluitwerk"
+	},
+	{
+		"productgroupId":910,
+		"description":"D4E Scharnieren Algemeen",
+		"parentProductgroupId":900,
+		"parentProductgroupDescription":"D4E Hang- en Sluitwerk"
+	},
+	{
+		"productgroupId":911,
+		"description":"D4E Glijlager Scharnieren",
+		"parentProductgroupId":900,
+		"parentProductgroupDescription":"D4E Hang- en Sluitwerk"
+	},
+	{
+		"productgroupId":912,
+		"description":"D4E raamboompjes",
+		"parentProductgroupId":900,
+		"parentProductgroupDescription":"D4E Hang- en Sluitwerk"
+	},
+	{
+		"productgroupId":920,
+		"description":"D4E Sloten Algemeen",
+		"parentProductgroupId":900,
+		"parentProductgroupDescription":"D4E Hang- en Sluitwerk"
+	},
+	{
+		"productgroupId":922,
+		"description":"D4E Woningbouw sloten",
+		"parentProductgroupId":900,
+		"parentProductgroupDescription":"D4E Hang- en Sluitwerk"
+	},
+	{
+		"productgroupId":926,
+		"description":"D4E Deurdrangres",
+		"parentProductgroupId":900,
+		"parentProductgroupDescription":"D4E Hang- en Sluitwerk"
+	},
+	{
+		"productgroupId":927,
+		"description":"D4E raamboompjes versie 2",
+		"parentProductgroupId":900,
+		"parentProductgroupDescription":"D4E Hang- en Sluitwerk"
+	},
+	{
+		"productgroupId":931,
+		"description":"D4E RVS Deurkruk Rozet",
+		"parentProductgroupId":900,
+		"parentProductgroupDescription":"D4E Hang- en Sluitwerk"
+	},
+	{
+		"productgroupId":932,
+		"description":"D4E RVS Deurkruk Schild",
+		"parentProductgroupId":900,
+		"parentProductgroupDescription":"D4E Hang- en Sluitwerk"
+	},
+	{
+		"productgroupId":934,
+		"description":"D4E Alu Vastdraaibaar Schild",
+		"parentProductgroupId":900,
+		"parentProductgroupDescription":"D4E Hang- en Sluitwerk"
+	},
+	{
+		"productgroupId":937,
+		"description":"D4E Alu VH beslag versie 2",
+		"parentProductgroupId":900,
+		"parentProductgroupDescription":"D4E Hang- en Sluitwerk"
+	},
+	{
+		"productgroupId":941,
+		"description":"D4E Deurspionnen",
+		"parentProductgroupId":900,
+		"parentProductgroupDescription":"D4E Hang- en Sluitwerk"
+	},
+	{
+		"productgroupId":946,
+		"description":"D4E Deurgrepen",
+		"parentProductgroupId":900,
+		"parentProductgroupDescription":"D4E Hang- en Sluitwerk"
+	},
+	{
+		"productgroupId":825,
+		"description":"Verpakkingsmateriaal",
+		"parentProductgroupId":999,
+		"parentProductgroupDescription":"Diversen"
+	}
+]

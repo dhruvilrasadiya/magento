@@ -1,0 +1,51 @@
+# not USED
+
+core:
+  dags_folder: /opt/airflow/dags
+  executor: LocalExecutor
+  sql_alchemy_conn: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+  load_examples: false
+  dag_file_processor_timeout: 600
+
+webserver:
+  web_server_port: 8080
+  web_server_host: 0.0.0.0
+  secret_key: your_secret_key_here
+  workers: 4
+  worker_class: sync
+
+scheduler:
+  job_heartbeat_sec: 5
+  scheduler_heartbeat_sec: 5
+  num_runs: -1
+  processor_poll_interval: 1
+  min_file_process_interval: 30
+
+email:
+  email_backend: airflow.utils.email.send_email_smtp
+
+smtp:
+  smtp_host: smtp.gmail.com
+  smtp_starttls: True
+  smtp_ssl: False
+  smtp_port: 587
+  smtp_mail_from: your-email@example.com
+
+magento:
+  api_url: https://your-magento-instance.com
+  api_version: V1
+  batch_size: 100
+  retry_delay: 300
+  max_retries: 3
+
+pdf_processing:
+  input_directory: /data/pdfs
+  processed_directory: /data/processed_pdfs
+  batch_size: 50
+  max_pages_per_file: 1000
+
+crm:
+  api_url: https://your-crm-instance.com
+  api_version: v2
+  batch_size: 200
+  sync_interval: 3600

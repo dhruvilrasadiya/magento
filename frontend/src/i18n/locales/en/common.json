@@ -1,0 +1,34 @@
+{
+  "general": {
+    "welcome": "Welcome",
+    "menu": "Menu"
+  },
+  "navigation": {
+    "users": "Users",
+    "chat": "Chat",
+    "chats": "Chats",
+    "userManagement": "User Management",
+    "profile": "Profile"
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "emailId": "Email ID",
+    "save": "Save",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  },
+  "ui": {
+    "options": "Options",
+    "results": "Results"
+  },
+  "auth": {
+    "logOut": "Log out"
+  },
+  "clipboard": {
+    "emailCopied": "Email copied to clipboard!",
+    "copyEmail": "Copy email address",
+    "copyFailed": "Failed to copy email to clipboard!"
+  }
+}

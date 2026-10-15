@@ -1,0 +1,42 @@
+[
+	{
+		"id":"a1f0r102265",
+		"name":"GBI Varpo",
+		"matchcode":"",
+		"contractconditions":
+		{
+			"type":"dge user license",
+			"maxtotalitems":0,
+			"maxfilesperyear":0
+		},
+		"channel":
+		[
+			{
+				"code":"PRODUCT",
+				"supplier":
+				{
+					"id":"a1f0r102265",
+					"name":"GBI Varpo",
+					"matchcode":"",
+					"targetgroup":
+					[
+						{
+							"id":0,
+							"name":"general",
+							"matchcode":"",
+							"defaultflowsettings":
+							{
+								"type":"DEFAULT",
+								"format":"DR3-002",
+								"completefile":true,
+								"approvalrequired":false,
+								"noticeAdmin":"",
+								"noticeAuthor":""
+							}
+						}
+					]
+				}
+			}
+		]
+	}
+]
